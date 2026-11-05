@@ -1,0 +1,2 @@
+# Preserve the supplied CSV files byte for byte.
+/ultralytics/results/*.csv -text
