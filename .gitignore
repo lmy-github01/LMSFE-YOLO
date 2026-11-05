@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.idea/
+.vscode/
+.pytest_cache/
+.env
+build/
+dist/
+/runs/
+/datasets/
+/weights/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.bak
+*.log
+
+# Local supplementary materials excluded from this upload.
+/results/
+/analysis_legacy/
+/docs/
+/tools/verify_results.py
