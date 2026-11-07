@@ -64,5 +64,5 @@ The TinyPerson dataset configuration is available at `ultralytics/cfg/datasets/T
 
 Software citation information is provided in [CITATION.cff](CITATION.cff), and Zenodo archive metadata are provided in [.zenodo.json](.zenodo.json). Cite the specific archived release used for an analysis.
 
-The version-specific Zenodo DOI will be added here after archival.
+Version `v1.0.0` is archived in Zenodo: [10.5281/zenodo.24027516](https://doi.org/10.5281/zenodo.24027516).
 

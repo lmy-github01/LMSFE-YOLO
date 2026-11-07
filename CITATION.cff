@@ -3,6 +3,7 @@ type: software
 title: 'LMSFE-YOLO: A parameter-efficient edge-enhanced detector for UAV small object detection'
 message: If you use this software, please cite this release.
 version: 1.0.0
+doi: 10.5281/zenodo.24027516
 license: AGPL-3.0-or-later
 repository-code: https://github.com/lmy-github01/LMSFE-YOLO
 url: https://github.com/lmy-github01/LMSFE-YOLO
