@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+type: software
+title: 'LMSFE-YOLO: A parameter-efficient edge-enhanced detector for UAV small object detection'
+message: If you use this software, please cite this release.
+version: 1.0.0
+license: AGPL-3.0-or-later
+repository-code: https://github.com/lmy-github01/LMSFE-YOLO
+url: https://github.com/lmy-github01/LMSFE-YOLO
+authors:
+- given-names: Baocai
+  family-names: Yu
+  affiliation: Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China
+- given-names: Mingyu
+  family-names: Liu
+  affiliation: Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China
+- given-names: Hong
+  family-names: Peng
+  affiliation: Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China
+- given-names: Zhijian
+  family-names: Zhao
+  affiliation: Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China
+- given-names: Yu
+  family-names: Bu
+  affiliation: Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China
+- given-names: Yuqi
+  family-names: Wang
+  affiliation: Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China
+abstract: Source code, model configurations, training and evaluation entry points, dataset documentation, and CSV result files for LMSFE-YOLO. The architecture combines LCSM, C3k2-MSEE, and HE-PAN for UAV small-object detection.
+keywords:
+- UAV imagery
+- small-object detection
+- YOLO
+- edge enhancement
+- multi-scale feature fusion
