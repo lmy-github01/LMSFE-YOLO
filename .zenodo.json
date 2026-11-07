@@ -1,0 +1,42 @@
+{
+  "title": "LMSFE-YOLO: A parameter-efficient edge-enhanced detector for UAV small object detection",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Yu, Baocai",
+      "affiliation": "Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China"
+    },
+    {
+      "name": "Liu, Mingyu",
+      "affiliation": "Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China"
+    },
+    {
+      "name": "Peng, Hong",
+      "affiliation": "Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China"
+    },
+    {
+      "name": "Zhao, Zhijian",
+      "affiliation": "Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China"
+    },
+    {
+      "name": "Bu, Yu",
+      "affiliation": "Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China"
+    },
+    {
+      "name": "Wang, Yuqi",
+      "affiliation": "Ordos Institute of Liaoning Technical University, Ordos, China; School of Electronic and Information Engineering, Liaoning Technical University, Huludao, China"
+    }
+  ],
+  "description": "<p>Source code and supporting files for LMSFE-YOLO, a detector for UAV small-object detection combining LCSM, C3k2-MSEE, and HE-PAN.</p><p>The repository contains model configurations, training, evaluation and inference entry points, dependency specifications, dataset access instructions, and machine-readable CSV result files.</p><p>Software is distributed under GNU AGPL-3.0-or-later. Author-generated numerical result files in ultralytics/results are distributed under CC BY 4.0. Third-party benchmark images and original annotations are obtained from their official providers under their respective terms.</p>",
+  "access_right": "open",
+  "license": "agpl-3.0-or-later",
+  "language": "eng",
+  "keywords": [
+    "UAV imagery",
+    "small-object detection",
+    "YOLO",
+    "edge enhancement",
+    "multi-scale feature fusion"
+  ]
+}
