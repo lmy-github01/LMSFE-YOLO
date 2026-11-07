@@ -50,3 +50,19 @@ Use the actual output directory printed by the trainer, since repeated run names
 ## License
 
 The Ultralytics-derived software retains the AGPL-3.0 license. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Third-party dataset images and annotations remain subject to their providers' terms.
+
+## Additional documentation
+
+- [Dataset sources, experimental subsets, and category mappings](docs/DATASETS.md).
+- [Environment, training settings, and execution instructions](docs/REPRODUCIBILITY.md).
+- [Code and data availability](docs/DATA_AVAILABILITY.md).
+- [CSV result-file descriptions](ultralytics/results/README.md).
+
+The TinyPerson dataset configuration is available at `ultralytics/cfg/datasets/TinyPerson.yaml`. Set its `path` to the prepared dataset root. It uses two classes, `0: earth_person` and `1: sea_person`, and loads the evaluation subset through `val`.
+
+## Citation and archiving
+
+Software citation information is provided in [CITATION.cff](CITATION.cff), and Zenodo archive metadata are provided in [.zenodo.json](.zenodo.json). Cite the specific archived release used for an analysis.
+
+The version-specific Zenodo DOI will be added here after archival.
+
