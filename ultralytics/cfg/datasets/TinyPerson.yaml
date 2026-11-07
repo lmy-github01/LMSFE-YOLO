@@ -1,0 +1,8 @@
+# Set path to the directory containing train/ and val/.
+path: /absolute/path/to/TinyPerson
+train: train/images
+val: val/images
+nc: 2
+names:
+  0: earth_person
+  1: sea_person
